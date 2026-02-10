@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "yuU01D81oJM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sidse\\Documents\\Skole\\4. semester\\Systemintegration\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sidse\\.nuget\\packages\\rabbitmq.client\\7.2.0\\rabbitmq.client.7.2.0.nupkg.sha512",
+    "C:\\Users\\sidse\\.nuget\\packages\\system.threading.ratelimiting\\8.0.0\\system.threading.ratelimiting.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

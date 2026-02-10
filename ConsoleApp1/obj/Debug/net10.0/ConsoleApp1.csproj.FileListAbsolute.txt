@@ -1,0 +1,6 @@
+C:\Users\sidse\Documents\Skole\4. semester\Systemintegration\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\sidse\Documents\Skole\4. semester\Systemintegration\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sidse\Documents\Skole\4. semester\Systemintegration\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\sidse\Documents\Skole\4. semester\Systemintegration\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\sidse\Documents\Skole\4. semester\Systemintegration\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\sidse\Documents\Skole\4. semester\Systemintegration\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.sourcelink.json

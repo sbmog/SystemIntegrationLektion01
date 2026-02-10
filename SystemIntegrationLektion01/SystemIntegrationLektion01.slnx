@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+    <Project Path="ConsoleApp1/Send.csproj" Id="709b1726-2db2-416b-b927-d215f9ab612f" />
+    <Project Path="Receive/Receive.csproj" Id="2135212a-8251-48df-8a50-fd402d775638" />
+  </Folder>
+</Solution>
